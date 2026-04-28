@@ -1,0 +1,10 @@
+Indian Legal Assistant — Evaluation Summary
+==================================================
+Total queries: 25
+
+── Full system ──
+  section         10/10  (100.0%)
+  ipc_redirect     7/ 7  (100.0%)
+  situational      8/ 8  (100.0%)
+  OVERALL         25/25  (100.0%)
+  Avg latency: 3.75s
